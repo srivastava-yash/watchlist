@@ -16,10 +16,6 @@ export const Header = () => {
                     </li>
 
                     <li>
-                        <Link to="/watched">Watched</Link>
-                    </li>
-
-                    <li>
                         <Link to="/add" className="btn btn-main">+ Add</Link>
                     </li>
                 </ul>
